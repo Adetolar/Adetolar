@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adetola
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning  Java Script
+- 🌱 I’m currently learning  JavaScript
 - 💞️ I’m looking to collaborate on any project that will aid my leaning process
 - 📫 How to reach me on tolaprince2003@gmail.com
 
