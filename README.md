@@ -1,4 +1,4 @@
-Welcome to my front-end web developer portfolio! This repository showcases my skills, projects, and experience in web development. Whether you're a recruiter, potential collaborator, or just curious about my work, I hope you find what you're looking for here.
+<p>Welcome to my front-end web developer portfolio! This repository showcases my skills, projects, and experience in web development. Whether you're a recruiter, potential collaborator, or just curious about my work, I hope you find what you're looking for here.</p>
 
 About Me
 I'm passionate about crafting engaging and intuitive user experiences through web development.
