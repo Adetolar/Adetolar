@@ -1,10 +1,8 @@
-<p>Welcome to my front-end web developer portfolio! This repository showcases my skills, projects, and experience in web development. Whether you're a recruiter, potential collaborator, or just curious about my work, I hope you find what you're looking for here.</p>
-<br>
+<p>Welcome to my front-end web developer portfolio! This repository showcases my skills, projects, and experience in web development. Whether you're a recruiter, potential collaborator, or just curious about my work, I hope you find what you're looking for here.</p
 
 <p>About Me</p><br>
 
 <p>I'm passionate about crafting engaging and intuitive user experiences through web development.</p>
-
 <p>Skills</p>
 <br>
 <p>HTML</p>
@@ -15,7 +13,7 @@
 <p>Get in Touch,</p>
 <p>I'm open to collaboration, job opportunities, or just a friendly chat! You can reach out to me via:</p>
 <br><br>
-<p>Email:Adetolar@proton.me</p>
+<p>Email: Adetolar@proton.me </p>
 <p>LinkedIn:https://www.linkedin.com/in/adetola-fashina-41770614b/</p>
 <p>Twitter: https://twitter.com/rockfrompebbles</p>
 
